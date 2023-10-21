@@ -1,0 +1,9 @@
+10/15/2023-10/21/2023.txt
+GoalWeight:230
+Calories:2300
+WaterIntake:94
+Protein:145|25.217391304347824
+Fat:100|39.130434782608695
+Carbs:205|35.65217391304348
+ExerciseGoal:weight lifting|lift weights for different muscle groups during the week|3|2
+MiscellaneousGoal:journal writing|write meaningfully in journal during the week|4|3

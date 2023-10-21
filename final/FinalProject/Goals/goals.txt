@@ -1,0 +1,9 @@
+10/19/2023
+GoalWeight:190
+Calories:2000
+WaterIntake:100
+Protein:150|30
+Fat:44.44444444444444|20
+Carbs:250|50
+ExerciseGoal:weight lifting|lift weights for different muscle groups during the week|3|0
+MiscellaneousGoal:journal writing|write meaningfully in journal during the week|4|0

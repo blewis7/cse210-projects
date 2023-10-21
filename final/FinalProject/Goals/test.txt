@@ -1,0 +1,7 @@
+10/21/2023
+GoalWeight:190
+Calories:2500
+WaterIntake:98
+Protein:156.25|25
+Fat:41.666666666666664|15
+Carbs:375|60

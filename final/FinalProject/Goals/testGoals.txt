@@ -1,0 +1,9 @@
+10/22/2023
+GoalWeight:200
+Calories:2500
+WaterIntake:120
+Protein:156.25|25
+Fat:55.55555555555556|20
+Carbs:343.75|55
+ExerciseGoal:Cardio|Run for 30 minutes|3|0
+MiscellaneousGoal:Journal writing|Write meaningfully in journal|4|0

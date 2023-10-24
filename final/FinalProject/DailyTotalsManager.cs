@@ -117,7 +117,7 @@ public class DailyTotalsManager
             previousDay = firstDayOfWeek;
          }
 
-        for (DateTime dt = previousDay; dt > firstDayOfWeek; dt = dt.AddDays(-1))
+        for (DateTime dt = previousDay; dt >= firstDayOfWeek; dt = dt.AddDays(-1))
         {
             string date = dt.ToString("MM/dd/yyyy").Replace("/", "_") + ".txt";
             bool exists = System.IO.File.Exists($"Dailys/{date}");
